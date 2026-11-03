@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad_default-placeholder.svg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#64748b" />
+      <stop offset="100%" stop-color="#334155" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#grad_default-placeholder.svg)" rx="16"/>
+  <rect x="320" y="210" width="160" height="120" rx="10" fill="#94a3b8"/>
+                    <circle cx="360" cy="245" r="14" fill="#cbd5e1"/>
+                    <path d="M320 310 L370 260 L420 310 L440 290 L480 330 L320 330 Z" fill="#e2e8f0"/>
+  <text x="400" y="495" fill="#ffffff" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="28" font-weight="700" text-anchor="middle">No Image Available</text>
+  <text x="400" y="530" fill="#e2e8f0" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="18" text-anchor="middle">Upload a photo when creating listing</text>
+</svg>
